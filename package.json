@@ -1,0 +1,33 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "This is my react project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkr160/Goal-project.git"
+  },
+  "keywords": [
+    "react",
+    "reactProject",
+    "ayush",
+    "kumar"
+  ],
+  "author": "Ayush Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkr160/Goal-project/issues"
+  },
+  "homepage": "https://github.com/ayushkr160/Goal-project#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
