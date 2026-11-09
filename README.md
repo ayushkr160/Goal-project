@@ -25,3 +25,17 @@
  * 
  * 
  */
+
+
+ # There are two types of import/export
+
+ /**- Default import/export
+ *  export default component/variable name
+ *  import component/variable name from "path"
+
+
+ * - Named import/export
+ *   export const component
+ *   import {componet/variable name} from "path"
+
+ */

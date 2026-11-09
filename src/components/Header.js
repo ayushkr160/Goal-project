@@ -3,7 +3,7 @@ const logo = new URL(
     import.meta.url
 ).href;
 
-const Header=()=>{
+export const Header=()=>{
     return (
         <div className="header">
             <div className="logo-container">
