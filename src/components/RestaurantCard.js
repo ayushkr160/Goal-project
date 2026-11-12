@@ -10,7 +10,7 @@ const RestaurantCard=({resData})=>{
             <h3>Rating: {resData.avgRating}/5</h3>
             <h4>Delivery Time: {resData.sla.deliveryTime} mins</h4>
             <h4>{resData.cuisines.join(", ")}</h4>
-            <h4>Cost for two: {resData.costForTwo}</h4>
+            <h4>{resData.costForTwo}</h4>
         </div>
     );
 }

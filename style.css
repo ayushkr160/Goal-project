@@ -35,7 +35,7 @@
     border: 2px solid black;
     margin: 10px;
     padding: 10px;
-    width: 200px;
+    width: 250px;
     
     background-color: #9e9898;
 }
@@ -69,4 +69,30 @@
     display: flex;
     flex-wrap: wrap;
     
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+
+.shimmer-card{
+    
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+    height: 350px;
+
+    background-color: #dfdcdc;
+}
+
+.login-btn{
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #aac63e;
+    color: white;
+
+
 }
